@@ -33,9 +33,10 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(32, 34)
+        Me.Label1.Location = New System.Drawing.Point(24, 28)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(128, 25)
+        Me.Label1.Size = New System.Drawing.Size(111, 20)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "เลือกประเภทวิชา"
         '
@@ -43,9 +44,10 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(95, 89)
+        Me.Label2.Location = New System.Drawing.Point(71, 72)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(65, 25)
+        Me.Label2.Size = New System.Drawing.Size(54, 20)
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "รายวิชา"
         '
@@ -54,9 +56,10 @@ Partial Class Form1
         Me.ComboType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.ComboType.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboType.FormattingEnabled = True
-        Me.ComboType.Location = New System.Drawing.Point(180, 31)
+        Me.ComboType.Location = New System.Drawing.Point(135, 25)
+        Me.ComboType.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.ComboType.Name = "ComboType"
-        Me.ComboType.Size = New System.Drawing.Size(199, 33)
+        Me.ComboType.Size = New System.Drawing.Size(150, 28)
         Me.ComboType.TabIndex = 2
         '
         'ComboSubject
@@ -64,31 +67,34 @@ Partial Class Form1
         Me.ComboSubject.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.ComboSubject.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboSubject.FormattingEnabled = True
-        Me.ComboSubject.Location = New System.Drawing.Point(180, 86)
+        Me.ComboSubject.Location = New System.Drawing.Point(135, 70)
+        Me.ComboSubject.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.ComboSubject.Name = "ComboSubject"
-        Me.ComboSubject.Size = New System.Drawing.Size(199, 33)
+        Me.ComboSubject.Size = New System.Drawing.Size(150, 28)
         Me.ComboSubject.TabIndex = 3
         '
         'ButtonShow
         '
         Me.ButtonShow.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonShow.Location = New System.Drawing.Point(180, 145)
+        Me.ButtonShow.Location = New System.Drawing.Point(135, 118)
+        Me.ButtonShow.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.ButtonShow.Name = "ButtonShow"
-        Me.ButtonShow.Size = New System.Drawing.Size(199, 42)
+        Me.ButtonShow.Size = New System.Drawing.Size(149, 34)
         Me.ButtonShow.TabIndex = 4
         Me.ButtonShow.Text = "แสดงรายการ"
         Me.ButtonShow.UseVisualStyleBackColor = True
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(425, 223)
+        Me.ClientSize = New System.Drawing.Size(319, 181)
         Me.Controls.Add(Me.ButtonShow)
         Me.Controls.Add(Me.ComboSubject)
         Me.Controls.Add(Me.ComboType)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)

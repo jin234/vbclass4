@@ -1,0 +1,12 @@
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.exe.config
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.exe
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.pdb
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.xml
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\Example1_MessageBox.vbprojResolveAssemblyReference.cache
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.Form1.resources
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.Resources.resources
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\Example1_MessageBox.vbproj.GenerateResource.cache
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\Example1_MessageBox.vbproj.CoreCompileInputs.cache
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.exe
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.xml
+D:\58121003-6\Vbclass4\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.pdb
