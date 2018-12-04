@@ -29,8 +29,9 @@
 
     Private Sub ButtonShow_Click(sender As Object, e As EventArgs) Handles ButtonShow.Click
 
-        Dim item As String = ComboSubject.SelectedItem
-
+        Dim type As String = ComboType.SelectedItem
+        Dim subject As String = ComboSubject.SelectedItem
+        MessageBox.Show("ประเภทรายวิชา : " & type & vbNewLine & "รายวิชา : " & subject)
 
 
 
