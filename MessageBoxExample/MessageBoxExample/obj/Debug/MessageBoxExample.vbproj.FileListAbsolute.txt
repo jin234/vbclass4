@@ -1,0 +1,12 @@
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.exe.config
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.exe
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.pdb
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\bin\Debug\MessageBoxExample.xml
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.vbprojAssemblyReference.cache
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.Form1.resources
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.Resources.resources
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.vbproj.GenerateResource.cache
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.exe
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.xml
+D:\VB.NET Code\MessageBoxExample\MessageBoxExample\obj\Debug\MessageBoxExample.pdb
